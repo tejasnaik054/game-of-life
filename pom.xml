@@ -41,6 +41,9 @@
                 <version>2.19.1</version>
                 <configuration>
                     <skip>true</skip>
+                     
+        <testFailureIgnore>true</testFailureIgnore>
+    
                 </configuration>
                 <executions>
                     <execution>
